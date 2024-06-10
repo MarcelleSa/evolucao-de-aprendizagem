@@ -40,3 +40,7 @@
 - Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
 - Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
 - Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
+
+## Observações
+
+- Para realizar o desafio é necessário criar um repositório público em sua conta pessoal do github e adicionar o conteúdo em um arquivo README.md assim como neste modelo.
